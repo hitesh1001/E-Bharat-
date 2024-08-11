@@ -21,7 +21,7 @@ Clone the repository:
 
 
 Copy code
-git clone https://github.com/yourusername/E-Bharat.git
+git clone https://github.com/hitesh1001/E-Bharat-.git
 cd E-Bharat
 Install dependencies:
 
